@@ -1,0 +1,5 @@
+# 忽略 cache/ 文件夹
+cache/
+
+# 忽略 build/ 目录下的所有 .cache 文件
+build/*.cache
